@@ -1,1 +1,1 @@
-git rev-parse --show-toplevel
+rev-parse --show-toplevel
